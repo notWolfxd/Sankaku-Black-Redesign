@@ -1,0 +1,207 @@
+body {
+  font-family: Meiryo,Hiragino Kaku Gothic Pro W3,Arial,Helvetica Neue,sans-serif;
+  font-size: 74%;
+}
+
+body.en {
+  font-family: Meiryo,Hiragino Kaku Gothic Pro W3,Arial,Helvetica Neue,sans-serif;
+  font-size: 74%;
+}
+
+body.ja {
+  font-family: Meiryo,Hiragino Kaku Gothic Pro W3,Arial,Helvetica Neue,sans-serif;
+  font-size: 74%;
+}
+
+body, body.en, body.ja, div, h1, h2, h3, h4, h5, h6, p, ul, li, dd, dt {
+  margin: 0;
+  padding: 0;
+}
+
+body, body.en, body.ja {
+  padding: 0;
+  margin: 0;
+  background: white;
+  min-width: 940px;
+}
+
+logo {
+margin-left: 2em;
+}
+
+a:link {
+  color: #FF761C;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:visited {
+  color: #FF761C;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #666;
+  text-decoration: none;
+}
+
+a:active {
+  color: #666;
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 2.0em;
+}
+
+h2 {
+  font-size: 2.0em;
+}
+
+h3 {
+  font-size: 1.6em;
+}
+
+h4 {
+  font-size: 1.4em;
+}
+
+h5 {
+  font-size: 1.2em;
+}
+
+h6 {
+  font-size: 1em;
+}
+
+li {
+  margin-left: 0.75em;
+  font-size: 16px;
+}
+
+p {
+  margin-bottom: 1em;
+}
+
+table {
+  margin-bottom: 1em;
+  border: 2px solid #FF761C;
+}
+
+table th {
+  border: 1px solid #FF761C;
+}
+
+table.highlightable > tbody > tr:hover {
+  background: #EEE;
+}
+
+table.highlightable th {
+  color: black;
+}
+
+table td {
+  padding: 1px 4px;
+  border: 1px solid #FF761C;
+}
+
+table tbody tr:nth-child(even) {
+  background: #FAFAFA;
+}
+
+td.version {
+  font-weight: bold;
+  text-align: center;
+  font-size: 40px;
+}
+
+h6.main-table-header {
+  font-size: 30px;
+  text-align: center;
+  padding-top: 20px;
+}
+
+h5.update-item {
+  text-decoration: underline;
+  font-size: 20px;
+}
+
+h6.release {
+  font-size: 25px;
+}
+
+h2.sankaku-plus {
+  text-align: center;
+  border-top: 2px solid #FF761C;
+  border-radius: 5px;
+  padding-top: 5px;
+  background-color: #FAFAFA;
+}
+
+h2.sankaku-plus-ref {
+  text-align: center;
+  border-bottom: 2px solid #FF761C;
+  border-radius: 5px;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  background-color: #FAFAFA;
+}
+
+h4.a11y {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 10px;
+}
+
+h4.download {
+  border-top: 2px solid #FF761C;
+  border-radius: 5px;
+  padding-top: 5px;
+  padding-left: 15px;
+  background-color: #FAFAFA;
+}
+
+h4.apple {
+  text-align: center;
+  border-top: 2px solid #FF761C;
+  border-radius: 5px;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  background-color: #FAFAFA;
+}
+
+li.download-option {
+  padding-left: 30px;
+  font-size: 25px;
+  background-color: #FAFAFA
+}
+
+p.recommend {
+  text-align: center;
+  border-bottom: 2px solid #FF761C;
+  border-radius: 5px;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  background-color: #FAFAFA;
+}
+
+p.notice {
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+p.apple-notice {
+  background-color: #FAFAFA;
+  text-align: center;
+  margin: 0px;
+  padding-bottom: 15px;
+}
+
+p.final-notice {
+  border-bottom: 2px solid #FF761C;
+  border-radius: 5px;
+  background-color: #FAFAFA;
+  text-align: center;
+  padding-bottom: 10px;
+}
