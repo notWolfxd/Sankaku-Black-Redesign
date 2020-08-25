@@ -205,3 +205,12 @@ p.final-notice {
   text-align: center;
   padding-bottom: 10px;
 }
+
+div.sitemap {
+  text-align: center;
+  border: 1px solid #FF761C;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  background-color: #FAFAFA;
+  padding-top: 2px;
+}
