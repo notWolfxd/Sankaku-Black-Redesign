@@ -152,6 +152,8 @@ h4.a11y {
   text-align: center;
   padding-top: 50px;
   padding-bottom: 10px;
+  width: 95%;
+  margin-left: 2.5%;
 }
 
 h4.download {
@@ -160,6 +162,7 @@ h4.download {
   padding-top: 5px;
   padding-left: 15px;
   background-color: #FAFAFA;
+
 }
 
 h4.apple {
@@ -174,7 +177,7 @@ h4.apple {
 li.download-option {
   padding-left: 30px;
   font-size: 25px;
-  background-color: #FAFAFA
+  background-color: #FAFAFA;
 }
 
 p.recommend {
@@ -189,6 +192,8 @@ p.recommend {
 p.notice {
   text-align: center;
   margin-bottom: 15px;
+  width: 95%;
+  margin-left: 2.5%;
 }
 
 p.apple-notice {
